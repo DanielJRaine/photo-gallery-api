@@ -123,6 +123,9 @@ $RECYCLE.BIN/
 # Used by dotenv library to load environment variables.
 # .env
 
+# credentials file from Amazon S3
+credentials.csv
+
 ## Specific to RubyMotion:
 .dat*
 .repl_history
